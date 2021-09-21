@@ -1,0 +1,28 @@
+.root{
+    -fx-font-size: 15;
+        -fx-background-image: url("/image/1.jpg");
+        -fx-background-size: 100% 100%;
+}
+
+.button{
+    -fx-background-color: #8b8990;
+}
+
+.button:hover{
+    -fx-background-color: #5a615a;
+    -fx-text-fill: #727165;
+    -fx-font-weight: bold;
+    -fx-font-size: 15,2;
+}
+
+#addBtn{
+    -fx-background-color: #788a95;
+}
+
+.text-area{
+    -fx-background-color: #5d5565;
+    -fx-control-inner-background: #a3a29f;
+    -fx-text-fill: #190a23;
+    -fx-highlight-text-fill: #000000;
+    -fx-highlight-fill: #5f32d5;
+}
